@@ -1,7 +1,8 @@
 # Mid af nvim config
+![2025-06-17-181934_hyprshot](https://github.com/user-attachments/assets/5bf06642-655a-42db-a36c-d21cfbb31260)
+![2025-06-17-182011_hyprshot](https://github.com/user-attachments/assets/a063d34d-95f4-45ef-9c16-14a5cc42c7ef)
+![2025-06-17-182024_hyprshot](https://github.com/user-attachments/assets/162e9cf1-42b3-4d6b-8d10-2eb76c48554d)
 
-![2025-06-16-112308_hyprshot](https://github.com/user-attachments/assets/d29b0a5d-a66c-4818-a386-1a27ab4bc021)
-![2025-06-16-112354_hyprshot](https://github.com/user-attachments/assets/b252ebae-9c54-4651-bf99-ff87ea777785)
 
 ## 🛠️ Installation
 
