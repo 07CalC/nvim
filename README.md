@@ -6,10 +6,17 @@
 
 ## 🛠️ Installation
 
+### Unix
 ```
 rm -rf ~/.config/nvim
-git clone https://github.com/07calc/nvim ~/.config/nvim
+git clone https://github.com/07calc/ncore ~/.config/nvim
 rm -rf ~/.config/nvim/.git
 nvim
 ```
-
+### Windows
+```
+Remove-Item -Recurse -Force $env:USERPROFILE\AppData\Local\nvim
+git clone https://github.com/07calc/ncore $env:USERPROFILE\AppData\Local\nvim
+Remove-Item -Recurse -Force $env:USERPROFILE\AppData\Local\nvim\.git
+nvim
+```
